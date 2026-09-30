@@ -1,6 +1,6 @@
 import time
 cuenta ={
-    "Nombre" : "JUAN",
+    "Nombre" : "Nombre",
     "Cantidad" : 500,
     "dep_max" : 5000,
     "ret_max" : 2000,
